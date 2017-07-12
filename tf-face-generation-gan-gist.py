@@ -1,4 +1,4 @@
-# This is gist of the GAN (generative adversarial networks) I built during the deep learning foundations course
+# This is a gist of a GAN (generative adversarial networks) I built during the deep learning foundations course
 
 # First, using MNIST (will show how well the model trains sooner)
 #   and then CelebA datasets. CelebA has 200,000+ celebrity images with annotations.
